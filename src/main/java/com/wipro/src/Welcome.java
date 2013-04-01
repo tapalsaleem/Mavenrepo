@@ -3,7 +3,8 @@ package com.wipro.src;
 public class Welcome {
 	
 	public String simpleMethod(){
-		return "wipro";
+		System.out.println("dfdfd");
+		return "wiprodfddf";
 	}
 
 }

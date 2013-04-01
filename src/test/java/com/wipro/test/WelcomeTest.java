@@ -15,7 +15,7 @@ public class WelcomeTest extends TestCase{
 	public void  testsimpleMethod(){
 		
 		Welcome wel = new Welcome();
-		assertEquals("wipro", wel.simpleMethod());
+		assertEquals("wiprodfddf", wel.simpleMethod());
 		
 		
 	}
